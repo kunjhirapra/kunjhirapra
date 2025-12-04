@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/kunjhirapra">
-    <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=kunjhirapra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=kunjhirapra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 
