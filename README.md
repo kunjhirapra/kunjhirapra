@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kunj Hirapra!
+# 👋 Hi, I'm Kunj Hirapara!
 
-[![Profile views](https://komarev.com/ghpvc/?username=kunjhirapra&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kunjhirapra)
+[![Profile views](https://komarev.com/ghpvc/?username=kunjHirapara&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kunjhirapara)
 
 ## 🎯 About Me
 
