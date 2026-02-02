@@ -60,13 +60,6 @@
 
 <div align="center">
   <a href="https://github.com/kunjhirapara">
-    <img src="https://github-readme-stats.vercel.app/api?username=kunjhirapara&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/kunjhirapara">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunjhirapara&theme=tokyonight" alt="GitHub Profile Summary"/>
   </a>
 </div>
